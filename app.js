@@ -4,7 +4,6 @@ const quoteReset = document.getElementById('quote-button-2');
 
 
 const quotes = [
-    "If you're getting bullied in school, bring a gun in!",
     "If your girl isn't thicc, her mother you shall pick",
     "If her booty jiggles when she walks, you must listen when she talks",
     "There are no accidents, even some children",
