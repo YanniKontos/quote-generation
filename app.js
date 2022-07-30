@@ -4,15 +4,15 @@ const quoteReset = document.getElementById('quote-button-2');
 
 
 const quotes = [
-    "If your girl isn't thicc, her mother you shall pick",
-    "If her booty jiggles when she walks, you must listen when she talks",
-    "There are no accidents, even some children",
-    "Jesus can turn water into wine, i can turn your mother into mine",
-    "If she says hey, she shall get the D the same day",
-    "If she says no, there is always her bro",
-    "If her booty does not bounce, the end of the relationship you shall announce",
-    "If she says she needs space, her sister shall take her place",
-    "If she ugly but thicc, going behind her will do the trick"
+    "temp1",
+    "temp2",
+    "temp3",
+    "temp4",
+    "temp5",
+    "temp6",
+    "temp7",
+    "temp8",
+    "temp9"
 ];
 
 quoteButton.addEventListener('click', () => {
